@@ -2,6 +2,7 @@
 
 I prefer the following when laying out a new repository.
 
+```plaintext
 root/
 ├─ .pipelines/
 ├─ docs/
@@ -9,3 +10,4 @@ root/
 ├─ src/
 ├─ .gitignore
 ├─ README.md
+```
