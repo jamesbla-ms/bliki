@@ -30,6 +30,7 @@ I believe everyone should feel comfortable doing all of the following things in 
 - Interactive rebasing within a branch
 - Dealing with conflicts
 - A fundamental understanding of how Git works under the covers. For example, what are all these hashes?
+- Knowing what the reflog is and why you might need it in a pinch
 - Working with GitHub integration
 - Working with Azure DevOps integration
 
